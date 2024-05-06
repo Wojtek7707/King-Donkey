@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(428,22): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(567,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(574,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(508,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(778,19): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(828,15): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(761,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(837,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(720,8): warning C4101: "seconds": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(738,18): warning C4101: "ladders3": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(719,9): warning C4101: "gameTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(724,16): warning C4101: "worldTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(723,78): warning C4101: "startY": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(723,70): warning C4101: "startX": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\main.cpp(721,7): warning C4101: "gameTimeText": lokalna zmienna, do której nie istnieje odwołanie
+  szablon2vs19.vcxproj -> C:\Users\wsobo_000\Downloads\template-project-2 (1)\template-project-2\x64\Debug\szablon2vs19.exe
